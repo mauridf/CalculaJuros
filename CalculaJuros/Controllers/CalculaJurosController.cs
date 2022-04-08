@@ -33,7 +33,8 @@ namespace CalculaJuros.Controllers
         {
             return Enumerable.Range(1, 1).Select(index => new ShowMeTheCode
             {
-                Url = "https://github.com/mauridf/TesteDeSelecaoSquadra/tree/main/TesteSelecaoSquadra"
+                Url1 = "https://github.com/mauridf/CalculaJuros.git",
+                Url2 = "https://github.com/mauridf/CalculaJuros.git"
             })
             .ToArray();
         }

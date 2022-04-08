@@ -7,6 +7,7 @@ namespace CalculaJuros
 {
     public class ShowMeTheCode
     {
-        public String Url { get; set; }
+        public String Url1 { get; set; }
+        public String Url2 { get; set; }
     }
 }
